@@ -1,6 +1,5 @@
 {
 "1": [
-
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/rutor.json",
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/1337x.json",
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/torrentdownload.json",		
@@ -18,6 +17,6 @@
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/torrentz2.json",
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_Torrent/onlytorrent.json",
 		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_DebridOnly/rlsbb.json",
-		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_DebridOnly/maxrls.json",
+		"https://raw.githubusercontent.com/lalitjoshi06/Scrapers/main/en_DebridOnly/maxrls.json"
 ]
 }
